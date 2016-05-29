@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Nikhil Thota <nt92@ufl.edu>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nt92/PluralSight",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
